@@ -1,5 +1,3 @@
-Create a restore point first. Leave Defender and updates on. This is not a registry cleaner, and it does not hide what a program does. Skip any line you cannot explain. After the reboot, check that updates still run. If an app stops signing in, undo that group before you touch another.
-
 # O&O ShutUp10++ - Toggles for Your Own Windows
 
 O&O ShutUp10++ lists suggested privacy and behavior toggles for the Windows install on this PC. Each line is a change you should read before you apply it. Create a restore point first. It is not a registry cleaner that deletes keys, and it is not a way to hide what a program does. Leave Defender and updates on unless you already understand that one switch.
